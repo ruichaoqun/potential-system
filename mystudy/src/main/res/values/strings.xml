@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">mystudy</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="saysomthing">写点什么吧</string>
+    <string name="applyanswer">邀请回答</string>
+
+</resources>
